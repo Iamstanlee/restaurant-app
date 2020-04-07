@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "521323838407",
+    "firebase_url": "https://fresh-genie-pvt-ltd.firebaseio.com",
+    "project_id": "fresh-genie-pvt-ltd",
+    "storage_bucket": "fresh-genie-pvt-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521323838407:android:1e5f0e03bbe3355f9937e2",
+        "android_client_info": {
+          "package_name": "fresh_genie_company.fgvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521323838407-4l72molof60on2pap7p55anog0hr7eu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fresh_genie_company.fgvendor",
+            "certificate_hash": "935704bb7b827e2aaa4937e823df3d374683ff27"
+          }
+        },
+        {
+          "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPJM1wrciuXnEIsmFjaNTE7etYHVfgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521323838407:android:d85abd7041f2a50f9937e2",
+        "android_client_info": {
+          "package_name": "freshgeniecompany.fgdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521323838407-kfn1ts8dpopliab7ambhovrlennvuaos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freshgeniecompany.fgdriverapp",
+            "certificate_hash": "d60e25be90d752c1b8928dde993a46e9e6825618"
+          }
+        },
+        {
+          "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPJM1wrciuXnEIsmFjaNTE7etYHVfgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521323838407:android:16b77d2f52c42eac9937e2",
+        "android_client_info": {
+          "package_name": "freshgeniecompany.fgrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521323838407-fg70cpk5rvs3f6ki3mb536rvuj5kvfpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freshgeniecompany.fgrestaurant",
+            "certificate_hash": "c9df845434084240d36ae01c6e22e6444f3628aa"
+          }
+        },
+        {
+          "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPJM1wrciuXnEIsmFjaNTE7etYHVfgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521323838407:android:128ad74ba798dcb49937e2",
+        "android_client_info": {
+          "package_name": "freshgeniecompany.freshgenieadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521323838407-4deu7h53jdnb9tjb7v3humtp6iccbg9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freshgeniecompany.freshgenieadmin",
+            "certificate_hash": "c9df845434084240d36ae01c6e22e6444f3628aa"
+          }
+        },
+        {
+          "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPJM1wrciuXnEIsmFjaNTE7etYHVfgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521323838407:android:d0cc880b2845b3e29937e2",
+        "android_client_info": {
+          "package_name": "freshgeniecompany.freshgeniecustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521323838407-gqvc2du96orvehmpp2che9hag2ihd6ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "freshgeniecompany.freshgeniecustomer",
+            "certificate_hash": "5e6e80f3a8a7c325ee99894d29d794633a56678d"
+          }
+        },
+        {
+          "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPJM1wrciuXnEIsmFjaNTE7etYHVfgPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521323838407-a1oujtpifm3kmdrqrl3kvf1u14eph09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
